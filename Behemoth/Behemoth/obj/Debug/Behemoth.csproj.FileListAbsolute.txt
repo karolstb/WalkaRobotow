@@ -1,0 +1,6 @@
+C:\Users\Karlik\Documents\programowanie\walka robotow\Behemoth\Behemoth\bin\Debug\robocode.dll
+C:\Users\Karlik\Documents\programowanie\walka robotow\Behemoth\Behemoth\bin\Debug\robocode.xml
+C:\Users\Karlik\Documents\programowanie\walka robotow\Behemoth\Behemoth\bin\Debug\Karol.Behemoth.dll
+C:\Users\Karlik\Documents\programowanie\walka robotow\Behemoth\Behemoth\bin\Debug\Karol.Behemoth.pdb
+C:\Users\Karlik\Documents\programowanie\walka robotow\Behemoth\Behemoth\obj\Debug\Karol.Behemoth.dll
+C:\Users\Karlik\Documents\programowanie\walka robotow\Behemoth\Behemoth\obj\Debug\Karol.Behemoth.pdb
